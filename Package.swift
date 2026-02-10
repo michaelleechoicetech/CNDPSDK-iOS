@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "CTKCNDP_Distribution",
+    name: "CTKCNDP",
     platforms: [
         .iOS(.v14),
         .macOS(.v12)
