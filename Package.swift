@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "CTKCNDP",
             url: "https://static.uwb.app/ctk/cndpsdk/CTKCNDP.xcframework.zip",
-            checksum : "d83a66d4c65af9f0179e6c89572fcb72496828dfb7b251f8d176ba31313e995e"
+            checksum : "9cf5e70223eefd28982b50d1ebfafddf7c863224f90e343ceea43d232b27ee75"
         )
     ]
 )
