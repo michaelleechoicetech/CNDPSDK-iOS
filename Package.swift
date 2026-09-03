@@ -21,13 +21,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CTKCNDP",
-            url: "https://github.com/michaelleechoicetech/CNDPSDK-iOS/releases/download/v1.1.41/CTKCNDP.xcframework.zip",
-            checksum: "7e64c64bac493edc65701fa58603900af5091be567bb1cecf48e1cc2dc550001"
+            url: "https://github.com/michaelleechoicetech/CNDPSDK-iOS/releases/download/v1.1.42/CTKCNDP.xcframework.zip",
+            checksum: "aa5aba0c3821f40193d9bfaca3c983ac20e0f088de0add2babceb47bb693aae3"
         ),
         .binaryTarget(
             name: "CTKCNDP_Universal",
-            url: "https://github.com/michaelleechoicetech/CNDPSDK-iOS/releases/download/v1.1.41/CTKCNDP_Universal.xcframework.zip",
-            checksum: "a23040e5b2be98e271c4d384cf1a0b8de2e74d5d9a76cf3ea5f6a4c63a73161f"
+            url: "https://github.com/michaelleechoicetech/CNDPSDK-iOS/releases/download/v1.1.42/CTKCNDP_Universal.xcframework.zip",
+            checksum: "7c7ddf9db197563a47ea5fbcd9656d9b18dd8134b88bb1ce8df8bd9fc0df56e5"
         )
     ]
 )
